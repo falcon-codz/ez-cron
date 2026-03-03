@@ -3,9 +3,6 @@
 
 EZ Cron is a all-in-one tool to manage all your Go Cron jobs.
 
-
-
-
 ## Key Features
 
 - Run all your cron jobs in seperate goroutines without hassle
